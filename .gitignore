@@ -1,0 +1,6 @@
+# auto-preuzet MNIST dataset (torchvision download=True)
+data/
+
+# Python
+__pycache__/
+*.pyc
