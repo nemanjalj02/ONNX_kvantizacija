@@ -60,7 +60,7 @@ ONNX_Kvantizacija/
 ### 01_training_preparation/
 - `CNN_training.ipynb` trening LeNet5 na MNIST-u
 - `preprocess.py` ONNX shape inference, priprema modela za kvantizaciju
-- `verify_export.py` provera da PyTorch i izvezeni ONNX model daju iste izlaze
+- `verify_export.py` provera ispavnosti strukture, izlaza i verzije
 
 ### 02_original_model/
 - `lenet5_best.pth` PyTorch tezine posle treninga
